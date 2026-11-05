@@ -1,0 +1,1 @@
+global.batatas = 0
