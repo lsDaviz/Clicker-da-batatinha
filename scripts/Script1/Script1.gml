@@ -1,1 +1,1 @@
-global.batatas = 0
+global.batatas = 100
