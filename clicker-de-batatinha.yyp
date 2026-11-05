@@ -28,6 +28,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"batata_clicada","path":"sprites/batata_clicada/batata_clicada.yy",},},
     {"id":{"name":"batata","path":"sprites/batata/batata.yy",},},
+    {"id":{"name":"batatinha","path":"sprites/batatinha/batatinha.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
