@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"So_melhoria_de_upgrade",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":14.654694,
+  "exportDir":"",
+  "name":"So_melhoria_de_upgrade",
+  "parent":{
+    "name":"sounds",
+    "path":"folders/sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"So_melhoria_de_upgrade.mp3",
+  "volume":1.0,
+}

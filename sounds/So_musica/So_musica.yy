@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":96.07837,
+  "duration":189.84634,
   "exportDir":"",
   "name":"So_musica",
   "parent":{
