@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"sprites",
-    "path":"folders/sprites.yy",
+    "name":"skin_batata_clickada",
+    "path":"folders/sprites/skin_batata_clickada.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

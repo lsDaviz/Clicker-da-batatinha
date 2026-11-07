@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"C_globais",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"C_globais",
+  "parent":{
+    "name":"clicker-de-batatinha",
+    "path":"clicker-de-batatinha.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

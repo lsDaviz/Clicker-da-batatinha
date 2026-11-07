@@ -1,14 +1,16 @@
+sprite_index = upgrade_clickado 
 // Verifica se a variável do nível existe por segurança, se não existir, ela começa em 1
 if (!variable_global_exists("nivel_upgrade_clique")) {
     global.nivel_upgrade_clique = 1;
 }
 
 if (global.batatas >= global.preco_upgrade_clique) {
-    // Cobra o preço
-    global.batatas -= global.preco_upgrade_clique;
-    
-    // Avança o nível
+     // Avança o nível
     global.nivel_upgrade_clique += 1;
+	// Cobra o preço
+    global.batatas -= global.preco_upgrade_clique;
+    audio_play_sound(So_botao_pagado,10,false)
+   
     
     // --- VERIFICAÇÃO EXATA DOS NÍVEIS ---
     
@@ -36,4 +38,6 @@ if (global.batatas >= global.preco_upgrade_clique) {
     
     // Atualiza o preço para o próximo nível
     global.preco_upgrade_clique = round(global.preco_upgrade_clique * 1.5);
+}else{
+	audio_play_sound(So_botao_erro,10,false)
 }
